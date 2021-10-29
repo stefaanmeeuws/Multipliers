@@ -2,7 +2,7 @@ package com.oneoonenet;
 
 public class Main {
     public static void main(String[] args) {
-        int initialValue = 17_377; // edit this value to affect output
+        int initialValue = 17_377;
         int i, j;
         boolean foundOne = false;
         System.out.println("What are the multipliers of " + initialValue + "?");
